@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Муравьи",
-		"leaderName": "AntOnTop",
+		"leaderName": "A",
 		"adjective": ["g-adjective"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "W",
+		"startIntroPart2": "T",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
